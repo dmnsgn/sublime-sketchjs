@@ -1,0 +1,54 @@
+<snippet>
+	<content><![CDATA[
+Sketch.create({
+	setup: function() {
+
+	},
+	update: function() {
+
+	},
+	draw: function() {
+
+	},
+	touchstart: function() {
+
+	},
+	touchmove: function() {
+
+	},
+	touchend: function() {
+
+	},
+	mouseover: function() {
+
+	},
+	mousedown: function() {
+
+	},
+	mousemove: function() {
+
+	},
+	mouseout: function() {
+
+	},
+	mouseup: function() {
+
+	},
+	click: function() {
+
+	},
+	keydown: function() {
+
+	},
+	keyup: function() {
+
+	},
+	resize: function() {
+
+	}
+});
+]]></content>
+	<tabTrigger>Sketch.create({fn})</tabTrigger>
+	<scope>source.js, source.js.embedded.html, source.coffee</scope>
+	<description>Sketch.create methods</description>
+</snippet>

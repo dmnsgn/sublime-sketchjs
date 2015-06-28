@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+start()
+]]></content>
+	<tabTrigger>Sketch start (instance)</tabTrigger>
+	<scope>source.js, source.js.embedded.html, source.coffee</scope>
+	<description>sketch.start()</description>
+</snippet>
