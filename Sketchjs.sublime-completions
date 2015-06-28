@@ -1,0 +1,64 @@
+{
+	"scope": "source.js, source.js.embedded.html, source.coffee",
+
+	"completions":
+	[
+		"Sketch",
+
+		// Instance Properties
+		"sketch.mouse",
+		"sketch.touches",
+		"sketch.dragging",
+		"sketch.running",
+		"sketch.width",
+		"sketch.height",
+		"sketch.keys",
+		"sketch.millis",
+		"sketch.now",
+		"sketch.dt"	,
+
+		// Constants
+		"sketch.CANVAS",
+		"sketch.WEBGL",
+		"sketch.DOM",
+		"sketch.instances",
+
+		// Math constants
+		"PI",
+		"TWO_PI",
+		"HALF_PI",
+		"QUARTER_PI",
+		"E",
+		"LN10",
+		"LN2",
+		"LOG2E",
+		"LOG10E",
+		"SQRT1_2",
+		"SQRT2",
+
+		// Methods
+		{ "trigger": "random", "contents": "random(${1:min}, ${2:max});$0" },
+		{ "trigger": "lerp", "contents": "lerp(${1:min}, ${2:max}, ${2:amount});$0" },
+		{ "trigger": "map", "contents": "man(${1:num}, ${2:minA}, ${3:maxA}, ${4:minB}, ${5:maxB});$0" },
+
+		// Math functions
+		{ "trigger": "abs", "contents": "abs(${1:x});$0" },
+		{ "trigger": "acos", "contents": "acos(${1:x});$0" },
+		{ "trigger": "asin", "contents": "asin(${1:x});$0" },
+		{ "trigger": "atan", "contents": "atan(${1:x});$0" },
+		{ "trigger": "ceil", "contents": "ceil(${1:x});$0" },
+		{ "trigger": "cos", "contents": "cos(${1:x});$0" },
+		{ "trigger": "exp", "contents": "exp(${1:x});$0" },
+		{ "trigger": "floor", "contents": "floor(${1:x});$0" },
+		{ "trigger": "log", "contents": "log(${1:x});$0" },
+		{ "trigger": "round", "contents": "round(${1:x});$0" },
+		{ "trigger": "sin", "contents": "sin(${1:x});$0" },
+		{ "trigger": "sqrt", "contents": "sqrt(${1:x});$0" },
+		{ "trigger": "tan", "contents": "tan(${1:x});$0" },
+		{ "trigger": "atan2", "contents": "atan2(${1:x}, ${2:y});$0" },
+		{ "trigger": "pow", "contents": "pow(${1:base}, ${2:exponent});$0" },
+		{ "trigger": "max", "contents": "max(${1:x}, ${2:y});$0" },
+		{ "trigger": "min", "contents": "min(${1:x}, ${2:y});$0" },
+
+	]
+}

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Sketch.install(${1:context});
+]]></content>
+	<tabTrigger>Sketch.install(context)</tabTrigger>
+	<scope>source.js, source.js.embedded.html, source.coffee</scope>
+	<description>Sketch.install</description>
+</snippet>

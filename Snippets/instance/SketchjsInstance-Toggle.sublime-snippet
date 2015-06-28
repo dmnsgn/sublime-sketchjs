@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+toggle()
+]]></content>
+	<tabTrigger>Sketch toggle (instance)</tabTrigger>
+	<scope>source.js, source.js.embedded.html, source.coffee</scope>
+	<description>sketch.toggle()</description>
+</snippet>

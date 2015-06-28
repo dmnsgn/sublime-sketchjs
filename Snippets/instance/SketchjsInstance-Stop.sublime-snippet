@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+stop()
+]]></content>
+	<tabTrigger>Sketch stop (instance)</tabTrigger>
+	<scope>source.js, source.js.embedded.html, source.coffee</scope>
+	<description>sketch.stop()</description>
+</snippet>

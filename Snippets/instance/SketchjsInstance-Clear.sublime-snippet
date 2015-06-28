@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+clear()
+]]></content>
+	<tabTrigger>Sketch clear (instance)</tabTrigger>
+	<scope>source.js, source.js.embedded.html, source.coffee</scope>
+	<description>sketch.clear()</description>
+</snippet>

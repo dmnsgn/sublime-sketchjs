@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+Sketch.augment(${1:context});
+]]></content>
+	<tabTrigger>Sketch.augment(context)</tabTrigger>
+	<scope>source.js, source.js.embedded.html, source.coffee</scope>
+	<description>Sketch.augment</description>
+</snippet>

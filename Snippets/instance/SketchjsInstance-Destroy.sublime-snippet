@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+destroy()
+]]></content>
+	<tabTrigger>Sketch destroy (instance)</tabTrigger>
+	<scope>source.js, source.js.embedded.html, source.coffee</scope>
+	<description>sketch.destroy()</description>
+</snippet>

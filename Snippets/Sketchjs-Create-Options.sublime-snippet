@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+Sketch.create({
+	fullscreen: true,
+	autostart: true,
+	autoclear: true,
+	autopause: true,
+	container: document.getElementById('container'),
+	interval: 1,
+	globals: true,
+	retina: false,
+	type: CANVAS
+});
+]]></content>
+	<tabTrigger>Sketch.create({})</tabTrigger>
+	<scope>source.js, source.js.embedded.html, source.coffee</scope>
+	<description>Sketch.create options</description>
+</snippet>
